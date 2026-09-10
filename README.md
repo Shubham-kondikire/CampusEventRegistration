@@ -39,7 +39,7 @@ Students can register for:
 - Android Notifications
 
 📂 Project Structure
-
+,,,
 CampusEventRegistration/
 │
 ├── app/
@@ -73,7 +73,7 @@ CampusEventRegistration/
 ├── gradle.properties
 ├── settings.gradle
 └── README.md
-
+,,,
 🔄 Application Flow
 
 Start Application
