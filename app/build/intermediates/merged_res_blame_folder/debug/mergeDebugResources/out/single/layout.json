@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.techconnect.campusevent.app-mergeDebugResources-30:/layout/activity_confirmation.xml",
+        "source": "com.techconnect.campusevent.app-main-33:/layout/activity_confirmation.xml"
+    },
+    {
+        "merged": "com.techconnect.campusevent.app-mergeDebugResources-30:/layout/activity_registration.xml",
+        "source": "com.techconnect.campusevent.app-main-33:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.techconnect.campusevent.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.techconnect.campusevent.app-main-33:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF1B1B1B</color>
+    <color name="ic_launcher_background">#FF3700B3</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="agree_rules">I agree to the event rules</string>
+    <string name="app_name">TechConnect 2026</string>
+    <string name="back_home">Back to Home</string>
+    <string name="college_logo">College Logo</string>
+    <string name="event_category_label">Event Category</string>
+    <string name="event_description">Join us for an exciting technical fest packed with coding contests, robotics workshops, and paper presentations!</string>
+    <string name="event_title">TechConnect 2026</string>
+    <string name="gender_label">Gender</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_usn">USN</string>
+    <string name="need_certificate_off">No Certificate</string>
+    <string name="need_certificate_on">Need Certificate</string>
+    <string name="register_now">Register Now</string>
+    <string name="registration_title">Event Registration</string>
+    <string name="submit_registration">Submit Registration</string>
+    <style name="Theme.CampusEvent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>

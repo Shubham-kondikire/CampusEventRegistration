@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TechConnect 2026</string>
+    <string name="college_logo">College Logo</string>
+    <string name="event_title">TechConnect 2026</string>
+    <string name="event_description">Join us for an exciting technical fest packed with coding contests, robotics workshops, and paper presentations!</string>
+    <string name="register_now">Register Now</string>
+    <string name="registration_title">Event Registration</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_usn">USN</string>
+    <string name="hint_email">Email</string>
+    <string name="gender_label">Gender</string>
+    <string name="event_category_label">Event Category</string>
+    <string name="agree_rules">I agree to the event rules</string>
+    <string name="submit_registration">Submit Registration</string>
+    <string name="need_certificate_on">Need Certificate</string>
+    <string name="need_certificate_off">No Certificate</string>
+    <string name="back_home">Back to Home</string>
+</resources>
